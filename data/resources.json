@@ -20,8 +20,8 @@
         "author": "5",
         "zhua": 3,
         "type": [
-            "Test Type I",
-            "Test Type II"
+            "Type I",
+            "Type II"
         ],
         "link": "storage/resources/5/testresource.html",
         "global": true
