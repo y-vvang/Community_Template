@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Test Party I Summary",
+        "author": "com",
+        "zhua": 0,
+        "type": [],
+        "link": "storage/resources/com/testpartyonesummary.html",
+        "global": false
+    },
+    {
+        "title": "Test Party II Summary",
+        "author": "10",
+        "zhua": 0,
+        "type": [],
+        "link": "storage/resources/10/testpartytwosummary.html",
+        "global": true
+    },
+    {
+        "title": "Test Resource",
+        "author": "5",
+        "zhua": 3,
+        "type": [
+            "Test Type I",
+            "Test Type II"
+        ],
+        "link": "storage/resources/5/testresource.html",
+        "global": true
+    }
+]

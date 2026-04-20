@@ -1,0 +1,72 @@
+{
+    "0": {
+        "name": "Test Party I",
+        "date": {
+            "begin": "2026/4/24",
+            "end": "2027/1/1"
+        },
+        "responsible": "com",
+        "content": "storage/parties/00/content.html",
+        "link": "javascript:alert('put an online form link here...')",
+        "reward": {
+            "First Prize": {
+                "zhua": 15
+            },
+            "Second Prize": {
+                "zhua": 10
+            },
+            "Third Prize": {
+                "zhua": 5
+            }
+        },
+        "result": {
+            "ai": [
+                "Third Prize"
+            ],
+            "10": [
+                "First Prize"
+            ],
+            "5": [
+                "Second Prize"
+            ]
+        },
+        "summary": "Test Party I Summary"
+    },
+    "1": {
+        "name": "Test Party II",
+        "date": {
+            "begin": "2026/7/16",
+            "end": "2026/8/16"
+        },
+        "responsible": "10",
+        "content": "storage/parties/01/content.html",
+        "link": "javascript:alert('put an online form link here...')",
+        "reward": {
+            "Great": {
+                "zhua": 20,
+                "extra": [
+                    "User Tag"
+                ]
+            },
+            "Good": {
+                "zhua": 10
+            },
+            "Thanks": {
+                "zhua": 1
+            }
+        },
+        "result": {
+            "pub": [
+                "Thanks"
+            ],
+            "AI_Agent": [
+                "Good"
+            ],
+            "5": [
+                "Great",
+                "Thanks"
+            ]
+        },
+        "summary": "Test Party II Summary"
+    }
+}

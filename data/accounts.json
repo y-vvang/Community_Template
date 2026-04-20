@@ -1,0 +1,51 @@
+{
+    "com": {
+        "banned": false,
+        "admin": false,
+        "system": true,
+        "username": "Community",
+        "usertag": null,
+        "slogan": "The Only Official Account of Community_Template",
+        "contribution": []
+    },
+    "ai": {
+        "banned": false,
+        "admin": false,
+        "system": true,
+        "username": "AI_Agent",
+        "usertag": null,
+        "slogan": "System Account. Everyone can choose to publish AI-generated content using this account. ",
+        "contribution": []
+    },
+    "pub": {
+        "banned": false,
+        "admin": false,
+        "system": true,
+        "username": "Guest",
+        "usertag": null,
+        "slogan": "Guest Account",
+        "contribution": []
+    },
+    "5": {
+        "banned": false,
+        "admin": false,
+        "system": false,
+        "username": "Tester",
+        "usertag": null,
+        "slogan": "",
+        "contribution": [
+            "Site Tester"
+        ]
+    },
+    "10": {
+        "banned": false,
+        "admin": true,
+        "system": false,
+        "username": "y_wang",
+        "usertag": "mascot",
+        "slogan": "undefined",
+        "contribution": [
+            "Site Host"
+        ]
+    }
+}
