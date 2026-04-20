@@ -1,0 +1,45 @@
+body {
+    user-select: none;
+    touch-action: pan-x pan-y;
+    word-break: break-all;
+    overflow-x: hidden;
+    background-color: #FFFFFF6F;
+    box-shadow: 0 1px 3px #0000003F;
+    border-radius: 4px;
+    padding: 1em;
+}
+
+a {
+    text-decoration: none;
+    color: #0e90d2;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+pre {
+    font-family: monospace;
+    background-color: #FAFAFA;
+    border-radius: 0.3em;
+    color: #383A42;
+    padding: 1em;
+    user-select: all;
+    line-height: 1.5em;
+    overflow-x: auto;
+    width: calc(100% - 2em);
+    word-break: keep-all;
+}
+
+code {
+    font-size: 1.05em;
+    background-color: #8080801F;
+    border-radius: 6px;
+    padding: 0.1em 0.2em;
+    margin: 0 0.2em;
+    user-select: text;
+}
